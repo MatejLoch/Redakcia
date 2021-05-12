@@ -5,3 +5,7 @@ Datum: 12. Mája 2021
 Zamestnanci zostali 
 zhrození. V serverovni 
 vypukol požiar.
+----
+Zamestnanci to vzali do vlastných 
+rúk. Hneď sa pustili do hasenia 
+požiaru v serverovni.
